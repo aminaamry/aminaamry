@@ -1,5 +1,5 @@
 
-<br>Engineering student 👩‍💻 | Cybersecurity, Networks & IoT | Check out my repositories below!</br>
+<br>Engineering student 👩‍💻 | Cybersecurity, Networks & IoT | Check out my repositories !</br>
 
 
 
